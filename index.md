@@ -1,1 +1,1 @@
-[The Complete Guide to Azure Functions using C#](https://incursus.github.io/redask.github.com/azure-functions)
+[The Complete Guide to Azure Functions using C#](https://incursus.github.io/azure-functions)

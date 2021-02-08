@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.redask.net.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../:\Repos\redask.net\.idea\.idea.redask.net.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
