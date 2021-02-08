@@ -1,9 +1,3 @@
----
-layout: post
-title:  "Welcome to Jekyll!"
----
-
----
-layout: post
-title:  "Welcome to Jekyll!"
----
+layout: page
+title: "Azure Functiins"
+permalink: /azure-functions/
